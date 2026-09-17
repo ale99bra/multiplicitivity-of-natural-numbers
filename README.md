@@ -4,9 +4,9 @@
 
 ## Abstract
 
-We investigate the structural patterns formed by divisibility over finite sets of initial prime numbers. We define a discrete invariant, *multiplicitivity* µ(n), which counts how many fundamental primes from a fixed set divide n. Focusing on the set {2, 3, 5, 7} (with primorial 210), multiplicitivity partitions the natural numbers into six classes — Unico, Monome, Duome, Triome, Quadrome, and Pentanome — and we prove this partition is strictly periodic with period 210 and exhibits reflection symmetry centered at 105. We then generalize the framework to the k-th primorial and connect it to the classical restricted prime-omega function.
+We investigate the structural patterns formed by divisibility over finite sets of initial prime numbers. We define a discrete invariant, *multiplicitivity* µ(n), which counts how many fundamental primes from a fixed set divide n. Focusing on the set {2, 3, 5, 7} (with primorial 210), multiplicitivity partitions the natural numbers into six classes: Unico, Monome, Duome, Triome, Quadrome, and Pentanome. We prove this partition is strictly periodic with period 210 and exhibits reflection symmetry centered at 105. We then generalize the framework to the k-th primorial and connect it to the classical restricted prime-omega function.
 
-📄 [Read the paper (PDF)](releases/multiplicitivity.pdf)
+→ [Read the paper (PDF)](releases/multiplicitivity.pdf) ←
 
 ## Repository structure
 
@@ -58,4 +58,4 @@ This writes all five figures into `paper/figures/`, overwriting the existing one
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](LICENSE) (CC BY 4.0).
+This work is licensed under a [Creative Commons Attribution 4.0 International License](./LICENSE) (CC BY 4.0).
